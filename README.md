@@ -1,10 +1,10 @@
 # ***PATA SERVICE***
 
 ## Authors:
-+ Teddy Omondi
-+ Marc Maina
-+ Felix Obiero
-+ Eric Karisa
++ Teddy Omondi - FrontEnd Developer 
++ Marc Maina - Designer
++ Felix Obiero - Backend Developer
++ Eric Karisa - FrontEnd Developer
 
 ## Project description
 Well Pata service is a platform where we connect service providers with potential customers. The customer can find different services around him or her.Then can arrange on how the service will be delivered . 
